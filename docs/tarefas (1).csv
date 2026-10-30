@@ -1,9 +1,9 @@
 ﻿Tarefa;Área;Situação;Prazo;Responsável;Critério/observação
 Criar repositório remoto e definir visibilidade;Organização;Pendente;Antes da submissão;Equipe RRB;Criar no GitHub e revisar acesso do professor
-Revisar README e estrutura de pastas;Documentação;Em preparação;Antes da submissão;Responsável a definir;Conferir problema, equipe, fontes, estrutura e instruções
-Confirmar tabelas/arquivos e cobertura das fontes;Aquisição;Pendente;Na coleta;Distribuir entre integrantes;Registrar número da tabela, parâmetros, cobertura e data real de acesso
-Verificar termos de uso/licença;Rastreabilidade;Pendente;Na coleta;Distribuir entre integrantes;Registrar condições de uso e redistribuição
-Completar dicionário com metadados oficiais;Documentação;Preliminar;Após selecionar tabelas;Distribuir entre integrantes;Confirmar tipos, unidade, chaves, categorias e granularidade
-Preparar notebook/script de aquisição;Plano técnico;Pendente;Para E05;Distribuir entre integrantes;Documentar parâmetros e preservar originais
-Validar acesso do professor ao repositório;Submissão;Pendente;Antes da submissão;Responsável pelo repositório;Testar link e permissões
-Exportar PDF de síntese e conferir nome;Submissão;Em preparação;Antes da submissão;Responsável pela entrega;Nomear E04_equipeRRB_plano_dados.pdf
+Revisar README e estrutura de pastas;Documentação;Em preparação;Antes da submissão;Equipe RRB;Conferir problema, equipe, fontes, estrutura e instruções
+Confirmar tabelas/arquivos e cobertura das fontes;Aquisição;Pendente;Na coleta;Equipe RRB;Registrar número da tabela, parâmetros, cobertura e data real de acesso
+Verificar termos de uso/licença;Rastreabilidade;Pendente;Na coleta;Equipe RRB;Registrar condições de uso e redistribuição
+Completar dicionário com metadados oficiais;Documentação;Preliminar;Após selecionar tabelas;Equipe RRB;Confirmar tipos, unidade, chaves, categorias e granularidade
+Preparar notebook/script de aquisição;Plano técnico;Pendente;Para E05;Equipe RRB;Documentar parâmetros e preservar originais
+Validar acesso do professor ao repositório;Submissão;Pendente;Antes da submissão;Equipe RRB;Testar link e permissões
+Exportar PDF de síntese e conferir nome;Submissão;Em preparação;Antes da submissão;Equipe RRB;Nomear E04_equipeRRB_plano_dados.pdf
