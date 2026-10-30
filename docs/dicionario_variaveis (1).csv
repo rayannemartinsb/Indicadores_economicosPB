@@ -1,0 +1,19 @@
+﻿Variável;Descrição;Tipo;Unidade;Fonte/cobertura
+pib_pb_valor;Valor do PIB estadual da Paraíba;Numérico;"R$; confirmar se corrente/constante e escala";IBGE – Contas Regionais;"Anual; PB; desde 2010 até última divulgação"
+pib_pb_crescimento;Variação percentual anual do PIB estadual;Numérico;%;"IBGE – Contas Regionais; derivada";"Anual; calculada após validar série"
+pib_municipal_valor;Valor do PIB por município;Numérico;"R$; confirmar escala e preços";IBGE – PIB dos Municípios;"Anual; municípios da PB"
+participacao_municipio_pib;Participação do PIB municipal no PIB estadual;Numérico;%;"IBGE – PIB dos Municípios; derivada";"Anual; municípios da PB"
+participacao_jp_cg;Participação conjunta de João Pessoa e Campina Grande no PIB estadual (CR2);Numérico;%;"IBGE – PIB dos Municípios; derivada";"Anual; João Pessoa + Campina Grande"
+pmc_volume_vendas;Índice/medida de volume de vendas do comércio varejista conforme tabela selecionada;Numérico;Conforme metadados da tabela;IBGE – PMC/SIDRA;"Mensal; cobertura a confirmar"
+pms_volume_servicos;Índice/medida de volume de serviços conforme tabela selecionada;Numérico;Conforme metadados da tabela;IBGE – PMS/SIDRA;"Mensal; cobertura a confirmar"
+caged_saldo_empregos;Saldo de admissões menos desligamentos no emprego formal;Numérico inteiro;Vínculos;MTE – Novo Caged;"Mensal; série nova a partir de 2020"
+caged_estoque_empregos;Estoque de vínculos formais, conforme definição oficial;Numérico inteiro;Vínculos;MTE – Novo Caged;"Mensal; série/definição a confirmar"
+pnadc_taxa_desocupacao;Taxa de desocupação;Numérico;% da força de trabalho;IBGE – PNAD Contínua;"Trimestral; PB, NE e Brasil conforme divulgação"
+comex_exportacoes_usd;Valor das exportações;Numérico;"US$; escala conforme arquivo";MDIC – Comex Stat;"Mensal; desde 2015 conforme disponibilidade"
+comex_importacoes_usd;Valor das importações;Numérico;"US$; escala conforme arquivo";MDIC – Comex Stat;"Mensal; desde 2015 conforme disponibilidade"
+comex_produto;Código/nome do produto segundo classificação oficial escolhida;Texto/categoria;Não se aplica;MDIC – Comex Stat;"Mensal; classificação registrada no plano de extração"
+credito_saldo;Saldo das operações de crédito na Paraíba;Numérico;Conforme unidade da série SGS;Banco Central – SGS;"Mensal; código da série a confirmar"
+icms_arrecadacao;Valor da arrecadação de ICMS;Numérico;"R$; escala conforme publicação";Confaz / Sefaz-PB;"Mensal; definição e fonte a confirmar"
+territorio;Unidade geográfica da observação;Texto/categoria;UF, região ou município;"Todas as fontes; harmonização";Identificar nível geográfico em cada base
+periodo_referencia;Período de referência da observação;Data/período;AAAA, AAAA-MM ou trimestre;Todas as fontes;Manter granularidade original e documentar conversões
+fonte_data_extracao;Fonte e data em que o arquivo foi obtido;Texto/data;URL e AAAA-MM-DD;Metadados do projeto;Preencher em cada extração
